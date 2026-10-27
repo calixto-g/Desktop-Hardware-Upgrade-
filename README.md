@@ -107,12 +107,12 @@ I also worked with Microsoft support to reactivate Windows 11 Pro after the hard
 | Check | Result |
 | --- | --- |
 | Windows boot | Reached the Windows lock screen |
-| CPU | Ryzen 5 9600X detected, with 6 cores and 12 logical processors |
-| Memory | 32 GB DDR5 detected; 2 slots used; 4800 MT/s displayed |
+| CPU | Ryzen 5 9600X detected, with 6 cores and 12 processors |
+| Memory | 32 GB DDR5 detected, 2 slots used, 4800 MT/s displayed |
 | Storage | NVMe system drive and both SATA drives visible in Task Manager |
 | Graphics card | GTX 1660 Ti recognized in Task Manager |
 | Case I/O | Connected peripherals worked through the case USB ports |
-| Wi-Fi | Built-in RZ616 adapter recognized, with network traffic visible |
+| Wi-Fi | Built in RZ616 adapter recognized, with network traffic visible |
 | Cooling and lighting | Checked fan operation and case/GPU lighting |
 | Chipset drivers | Installation completed successfully |
 | Windows license | Windows 11 Pro showed an Active activation state |
