@@ -10,13 +10,13 @@ My goal was to get the computer ready for IT study and virtual machine labs. Alo
 | --- | --- | --- |
 | Processor | AMD Ryzen 7 2700X | AMD Ryzen 5 9600X |
 | Motherboard | Gigabyte B450 AORUS M | MSI PRO X670-P WIFI |
-| Memory | 16 GB DDR4 | Corsair Vengeance 32 GB DDR5 |
-| Power supply | 550 W | MSI MAG A650GL 650 W |
+| Memory | Team Group 16 GB DDR4 | Corsair Vengeance 32 GB DDR5 |
+| Power supply | BeQuiet 550 W | MSI MAG A650GL 650 W |
 | Graphics card | NVIDIA GeForce GTX 1660 Ti | Kept the same card |
 | Storage | Samsung 980 1 TB NVMe, SATA SSD, SATA HDD | Kept the existing drives |
 | Case | Phanteks | Kept the same case |
 
-The new memory kit is rated for 5200 MT/s. My verification screenshot shows it running at 4800 MT/s.
+The new memory kit is rated for 5200 MT/s. My verification screenshot shows it running at 4800 MT/s. Will be overclocked at a later time.
 
 ![Original desktop](01-original-system.jpeg)
 
